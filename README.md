@@ -35,9 +35,13 @@ This repository has threePermBenchmark.py which benchmarks different ways of gen
 The figures have the results of these benchmarks on my machine.
 
 Required packages:
-numpy
-itertools
-pysat(https://pysathq.github.io/) Note that `pip install pysat` is not the correct package
+
+`numpy`
+
+`itertools`
+
+`pysat` (https://pysathq.github.io/) Note that `pip install pysat` is not the correct package
 
 Credit:
+
 This project would not have been possible without the work of Scott Pakin, who created a benchmark very similar to this one, "Two Trees".
