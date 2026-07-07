@@ -28,7 +28,7 @@ The last permutation then contains all the rest of the information about the pro
 For each index, the three permutations choose the x1, x2, and x3 that will be used for the clauses.
 The initial binary assignment of the variables decides which version of the XOR is added, chosing the one which does not contain the false clause.
 
-The total problem has n variables, 3n clauses, and 12n literals.
+The total problem has n variables, 4n clauses, and 12n literals.
 
 This repository has threePermClean.py which is a clean implementation of the problem generation.
 This repository has threePermBenchmark.py which benchmarks different ways of generating problems.
